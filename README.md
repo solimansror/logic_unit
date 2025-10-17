@@ -7,16 +7,16 @@ It’s part of a collaborative Verilog hardware design assignment that demonstra
 
 ## 📁 Project Structure
 
+```text
+
 project-root/
 ├── rtl/
-│ └── logic_unit.v # RTL logic unit implementation
+│   └── logic_unit.v               # RTL logic unit implementation
 ├── tb/
-│ └── logic_unit_tb.v # Self-checking testbench
+│   └── logic_unit_tb.v            # Self-checking testbench
 ├── docs/
-│ └── module_specifications.md # Documentation (truth table, examples, design)
+│   └── module_specifications.md   # Documentation (truth table, examples, design)
 └── README.md
-
-
 
 ---
 
