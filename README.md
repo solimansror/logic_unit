@@ -16,8 +16,7 @@ project-root/
 │ └── module_specifications.md # Documentation (truth table, examples, design)
 └── README.md
 
-yaml
-Copy code
+
 
 ---
 
@@ -41,8 +40,7 @@ Copy code
 a = 1010
 b = 0101
 
-yaml
-Copy code
+
 
 **Results:**
 | Operation | Output |
